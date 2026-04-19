@@ -128,3 +128,7 @@ I used GitHub Pages in repository settings and published the portfolio from the 
 
 **Result:**  
 My portfolio became accessible online and I learned how developers host websites using GitHub.
+
+## 🎓 GitHub Student Account Evidence
+
+![GitHub Student Proof](student-proof.jpeg)
