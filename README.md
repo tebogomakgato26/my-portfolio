@@ -11,8 +11,9 @@ Final-year ICT (Application Development) student at CPUT with hands-on industry 
 - Phone: 081 728 2590
 - Location: Woodstock, Cape Town
 - Email: 230116086@mycput.ac.za
-- GitHub: https://github.com/tebogomakgato26
-- LinkedIn: https://www.linkedin.com/in/tebogo-makgato-9208492ab
+- GitHub: [My GitHub Profile](https://github.com/tebogomakgato26)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/tebogo-makgato-9208492ab)
+
 
 ---
 
