@@ -73,4 +73,25 @@ Final-year ICT (Application Development) student at CPUT with hands-on industry 
 
 ### 📞 References
 - Mr Shisana (Supervisor at Capenexis) – +27 71 483 6394  
-- Receptionist at Zanami Lodge – +27 81 893 8100  
+- Receptionist at Zanami Lodge – +27 81 893 8100
+
+---
+
+## 🎥 Mock Interview Video
+Watch my mock interview here: [Click to view](./mock-interview.mp4)
+
+---
+
+## 🧠 Reflection on Mock Interview (STAR)
+
+**Situation:**  
+I was required to record a mock interview as part of my portfolio to demonstrate my communication and professional skills.
+
+**Task:**  
+I needed to answer common interview questions clearly and confidently.
+
+**Action:**  
+I prepared by thinking about my skills and experiences, then recorded myself answering the questions in a clear and structured way.
+
+**Result:**  
+I improved my confidence and communication skills. I also learned how to present myself professionally in an interview setting.
