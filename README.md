@@ -17,8 +17,9 @@ Final-year ICT (Application Development) student at CPUT with hands-on industry 
 ---
 
 ### 🎓 Education
-- Diploma in ICT (Application Development), CPUT (2024 – 2026 Expected)
 - Matric, Mothimako High School (2021)
+- Diploma in ICT (Application Development), CPUT (2024 – 2027 Expected)
+
 
 ---
 
@@ -95,3 +96,35 @@ I prepared by thinking about my skills and experiences, then recorded myself ans
 
 **Result:**  
 I improved my confidence and communication skills. I also learned how to present myself professionally in an interview setting.
+
+---
+
+## 🧠 Reflection on Coding in Markdown (STAR)
+
+**Situation:**  
+I was required to create a professional digital portfolio using GitHub and Markdown.
+
+**Task:**  
+I needed to learn how to format text properly using Markdown syntax.
+
+**Action:**  
+I used headings, bullet points, bold text, and links to organize my CV and portfolio sections in a clean way.
+
+**Result:**  
+I learned a useful developer skill and created a professional portfolio that is easy to read.
+
+---
+
+## 🧠 Reflection on GitHub Pages (STAR)
+
+**Situation:**  
+After completing my portfolio, I needed to publish it online.
+
+**Task:**  
+I needed to make my portfolio available through a public website link.
+
+**Action:**  
+I used GitHub Pages in repository settings and published the portfolio from the main branch.
+
+**Result:**  
+My portfolio became accessible online and I learned how developers host websites using GitHub.
