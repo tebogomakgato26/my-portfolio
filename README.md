@@ -1,7 +1,7 @@
 # 🌐 Tebogo Makgato Digital Portfolio
 
 ## 👤 About Me
-Final-year ICT (Application Development) student at CPUT with hands-on industry experience from a Microsoft-accredited IT learnership. Built and deployed a live React and Firebase web application used in real-world inspection management. Skilled in full-stack web development across Java, JavaScript, PHP, MySQL, and cloud platforms including Microsoft Azure. SSeeking a WIL placement opportunity where I can contribute to real-world software development projects.
+Final-year ICT (Application Development) student at CPUT with hands-on industry experience from a Microsoft-accredited IT learnership. Built and deployed a live React and Firebase web application used in real-world inspection management. Skilled in full-stack web development across Java, JavaScript, PHP, MySQL, and cloud platforms including Microsoft Azure. Seeking a WIL placement opportunity where I can contribute to real-world software development projects.
 
 ---
 
