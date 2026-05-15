@@ -1,13 +1,13 @@
 # Tebogo Makgato Digital Portfolio
 
-## 👤 About Me
+## About Me
 Final-year ICT (Application Development) student at CPUT with hands-on industry experience from a Microsoft-accredited IT learnership. Built and deployed a live React and Firebase web application used in real-world inspection management. Skilled in full-stack web development across Java, JavaScript, PHP, MySQL, and cloud platforms including Microsoft Azure. Seeking a WIL placement opportunity where I can contribute to real-world software development projects.
 
 ---
 
-## 📄 CV
+## CV
 
-### 📞 Contact Details
+### Contact Details
 - Phone: 081 728 2590
 - Location: Woodstock, Cape Town
 - Email: 230116086@mycput.ac.za
@@ -17,14 +17,14 @@ Final-year ICT (Application Development) student at CPUT with hands-on industry 
 
 ---
 
-### 🎓 Education
+### Education
 - Matric, Mothimako High School (2021)
 - Diploma in ICT (Application Development), CPUT (2024 – 2027 Expected)
 
 
 ---
 
-### 💼 Work Experience
+### Work Experience
 **IT Learnership — Capenexis Data Solutions (Jun 2023 – Nov 2023)**  
 - Completed a Microsoft-accredited learnership covering Azure Cloud, Oracle Cloud, and Power Platform  
 - Built web apps using Power Apps and Power Automate  
@@ -32,7 +32,7 @@ Final-year ICT (Application Development) student at CPUT with hands-on industry 
 
 ---
 
-### 🛠 Skills
+### Skills
 
 **Programming Languages:**
 - Java
@@ -88,13 +88,13 @@ Final-year ICT (Application Development) student at CPUT with hands-on industry 
 
 ---
 
-### 📞 References
+### References
 - Mr Shisana (Supervisor at Capenexis) – +27 71 483 6394  
 - Receptionist at Zanami Lodge – +27 81 893 8100
 
 ---
 
-## 🎥 Mock Interview Video
+## Mock Interview Video
 [Watch My Mock Interview Video](https://drive.google.com/file/d/1TNFrKLdt5M2julwJEf9XTet7ebsyY7ho/view?usp=sharing)
 
 ---
@@ -147,6 +147,6 @@ My portfolio became accessible online and I learned how developers host websites
 
 ---
 
-## 🎓 GitHub Student Account Evidence
+## GitHub Student Account Evidence
 
 ![GitHub Student Proof](student-proof.jpeg)
