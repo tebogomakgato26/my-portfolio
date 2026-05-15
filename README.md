@@ -1,7 +1,7 @@
-# Tebogo Makgato Portfolio
+# 🌐 Tebogo Makgato Digital Portfolio
 
 ## 👤 About Me
-Final-year ICT (Application Development) student at CPUT with hands-on industry experience from a Microsoft-accredited IT learnership. Built and deployed a live React and Firebase web application used in real-world inspection management. Skilled in full-stack web development across Java, JavaScript, PHP, MySQL, and cloud platforms including Microsoft Azure. Seeking a WIL placement where I can contribute to real software projects.
+Final-year ICT (Application Development) student at CPUT with hands-on industry experience from a Microsoft-accredited IT learnership. Built and deployed a live React and Firebase web application used in real-world inspection management. Skilled in full-stack web development across Java, JavaScript, PHP, MySQL, and cloud platforms including Microsoft Azure. SSeeking a WIL placement opportunity where I can contribute to real-world software development projects.
 
 ---
 
@@ -44,6 +44,10 @@ Final-year ICT (Application Development) student at CPUT with hands-on industry 
 - CSS
 - React
 
+**Backend Development:**
+- Laravel
+- Node.js
+ 
 **Database:**
 - MySQL
 - Firebase
@@ -52,6 +56,13 @@ Final-year ICT (Application Development) student at CPUT with hands-on industry 
 **UI/UX:**
 - Wireframing
 - Prototyping
+
+**Tools & Platforms:**
+- GitHub
+- GitHub Pages
+- VS Code
+- XAMPP
+- Firebase Console
 
 ---
 
@@ -73,6 +84,14 @@ Final-year ICT (Application Development) student at CPUT with hands-on industry 
 
 ---
 
+**Task Management System (Team Project)**  
+- Web-based task management application  
+- Allows users to create, assign, and manage tasks efficiently  
+- Includes authentication, dashboards, and email notifications  
+- Technologies: Laravel, PHP, MySQL, Blade, Tailwind CSS  
+
+---
+
 ### 📞 References
 - Mr Shisana (Supervisor at Capenexis) – +27 71 483 6394  
 - Receptionist at Zanami Lodge – +27 81 893 8100
@@ -80,7 +99,7 @@ Final-year ICT (Application Development) student at CPUT with hands-on industry 
 ---
 
 ## 🎥 Mock Interview Video
-Watch my mock interview here: [Click to view](./mock-interview.mp4)
+[Watch My Mock Interview Video](https://drive.google.com/file/d/1TNFrKLdt5M2julwJEf9XTet7ebsyY7ho/view?usp=sharing)
 
 ---
 
@@ -129,6 +148,8 @@ I used GitHub Pages in repository settings and published the portfolio from the 
 
 **Result:**  
 My portfolio became accessible online and I learned how developers host websites using GitHub.
+
+---
 
 ## 🎓 GitHub Student Account Evidence
 
