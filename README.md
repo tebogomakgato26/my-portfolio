@@ -53,10 +53,6 @@ Final-year ICT (Application Development) student at CPUT with hands-on industry 
 - Firebase
 - Firestore
 
-**UI/UX:**
-- Wireframing
-- Prototyping
-
 **Tools & Platforms:**
 - GitHub
 - GitHub Pages
