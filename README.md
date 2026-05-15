@@ -66,7 +66,7 @@ Final-year ICT (Application Development) student at CPUT with hands-on industry 
 
 ---
 
-### 🚀 Projects
+### Projects
 
 **InspectEase Web Application (Solo Project)**  
 - Web-based inspection management system  
