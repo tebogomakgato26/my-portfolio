@@ -103,7 +103,7 @@ Final-year ICT (Application Development) student at CPUT with hands-on industry 
 
 ---
 
-## 🧠 Reflection on Mock Interview (STAR)
+## Reflection on Mock Interview (STAR)
 
 **Situation:**  
 I was required to record a mock interview as part of my portfolio to demonstrate my communication and professional skills.
@@ -119,7 +119,7 @@ I improved my confidence and communication skills. I also learned how to present
 
 ---
 
-## 🧠 Reflection on Coding in Markdown (STAR)
+## Reflection on Coding in Markdown (STAR)
 
 **Situation:**  
 I was required to create a professional digital portfolio using GitHub and Markdown.
@@ -135,7 +135,7 @@ I learned a useful developer skill and created a professional portfolio that is 
 
 ---
 
-## 🧠 Reflection on GitHub Pages (STAR)
+## Reflection on GitHub Pages (STAR)
 
 **Situation:**  
 After completing my portfolio, I needed to publish it online.
