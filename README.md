@@ -153,12 +153,6 @@ My portfolio became accessible online and I learned how developers host websites
 
 ---
 
-## GitHub Student Account Evidence
-
-![GitHub Student Proof](student-proof.jpeg)
-
----
-
 # Agile Project Portfolio: Community Security Business Soshanguve
 
 ## Project Overview
