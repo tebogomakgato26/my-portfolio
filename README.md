@@ -153,6 +153,12 @@ My portfolio became accessible online and I learned how developers host websites
 
 ---
 
+## GitHub Student Account Evidence
+
+![GitHub Student Proof](student-proof.jpeg)
+
+---
+
 # Agile Project Portfolio: Community Security Business Soshanguve
 
 ## Project Overview
@@ -193,19 +199,19 @@ Our charter covers the team's purpose and vision, the five team members and thei
 
 **Page 1: team purpose, vision statement and team roles and responsibilities**
 
-![Agile Team Charter – purpose, vision and roles](images/charter-page-1-purpose-vision-roles.png)
+![Agile Team Charter – purpose, vision and roles](charter-page-1-purpose-vision-roles.png)
 
 **SMART goals**
 
-![Agile Team Charter – SMART goals](images/charter-smart-goals.png)
+![Agile Team Charter – SMART goals](charter-smart-goals.png)
 
 **Project milestones (all six weeks marked Completed)**
 
-![Agile Team Charter – project milestones](images/charter-milestones.png)
+![Agile Team Charter – project milestones](charter-milestones.png)
 
 **Page 4: team agreement and signatures**
 
-![Agile Team Charter – signatures](images/charter-page-4-signatures.png)
+![Agile Team Charter – signatures](charter-page-4-signatures.png)
 
 ### 1.4 Personal Reflection on the Agile Team Charter
 
@@ -235,13 +241,13 @@ These are the user stories that I worked on. Each one is written in full in the 
 
 > As a resident, I want to edit or remove my emergency contacts at any time so that my contact information remains up to date.
 
-![Trello card – Edit or remove emergency contacts (Sprint 2)](images/user-story-edit-emergency-contacts.png)
+![Trello card – Edit or remove emergency contacts (Sprint 2)](user-story-edit-emergency-contacts.png)
 
 **User story 2 (Sprint 3): Log shift end by checking out on the app**
 
 > As a security guard, I want to log the end of my shift by checking out on the app so that my working hours are accurately recorded.
 
-![Trello card – Log shift end by checking out on the app (Sprint 3)](images/user-story-log-shift-end.png)
+![Trello card – Log shift end by checking out on the app (Sprint 3)](user-story-log-shift-end.png)
 
 ### 2.3 Tasks
 
@@ -265,11 +271,11 @@ Each story is broken into tasks on its Trello checklist.
 
 **Trello board overview (Product Backlog and Sprint lists)**
 
-![Trello SAFEGUARD board overview](images/trello-board-overview.png)
+![Trello SAFEGUARD board overview](trello-board-overview.png)
 
 **Story 2 with its four tasks ticked and the card activity**
 
-![Trello card – Log shift end tasks and activity](images/user-story-log-shift-end-tasks.png)
+![Trello card – Log shift end tasks and activity](user-story-log-shift-end-tasks.png)
 
 ### 2.5 Personal Reflection
 
@@ -287,96 +293,27 @@ Writing stories in the "As a ..., I want ..., so that ..." format makes me think
 
 A Product Backlog is a list of everything the product needs. The most important or most urgent items are placed first. On our SAFEGUARD Trello board, the **Product Backlog** list holds **62 cards**. Each card has a due date and is coloured with labels to group similar work.
 
-### 3.2 Product Backlog Items
+### 3.2 Our Product Backlog in short
 
-The table below shows the Product Backlog cards that are visible in my screenshots, in the order they appear on the board, with their due dates. The board holds 62 cards in total.
-
-| Due date | Backlog item |
-|---|---|
-| 10 Aug | Press the SOS button to trigger an emergency alert |
-| 11 Aug | Hold down the SOS button to confirm and avoid accidental triggers |
-| 12 Aug | Share live GPS location automatically when SOS is activated |
-| 13 Aug | View a live map showing the responding guard's location |
-| 18 Aug | Receive a push notification when the guard is on route |
-| 19 Aug | Receive a push notification when the guard has arrived |
-| 20 Aug | Cancel a false alarm before the guard departs |
-| 21 Aug | View the full details of a resolved incident |
-| 24 Aug | Rate the guard's response after an incident is resolved |
-| 25 Aug | View full personal alert history with dates, guards, and outcomes |
-| 26 Aug | Report on suspicious activity in the area |
-| 27 Aug | Select an incident type |
-| 28 Aug | View a live community crime feed filtered by area |
-| 31 Aug | Receive community safety broadcast alerts from admin |
-| 1 Sep | View a map of recent crime hotspots in the township |
-| 2 Sep | Log out of the app |
-| 3 Sep | Set up payment method and pay monthly membership fee |
-| 4 Sep | View guard's name, photo, and PSIRA number once assigned |
-| 7 Sep | Navigate to the resident using in-app map routing |
-| 8 Sep | Accept an incoming alert within the required response window, decline an alert if unavailable |
-| 9 Sep | Update availability status (available, on break, off duty) |
-| 10 Sep | Add notes when resolving an incident |
-| 11 Sep | View personal response history and past incidents handled |
-| 14 Sep | Upload PSIRA certificate and ID for verification during registration |
-| 15 Sep | Receive notification when profile is approved/rejected by admin |
-| 16 Sep | View equipment checklist / confirm equipment issued |
-| 17 Sep | Report an equipment issue or request replacement |
-| 18 Sep | Flag a safety concern about a specific alert (e.g. "needs backup") |
-| 21 Sep | Register and approve new security guard profiles |
-| 22 Sep | Assign guards to specific patrol zones on the map |
-| 23 Sep | Deactivate or suspend a guard account |
-| 24 Sep | View a live dashboard of all active alerts in real time |
-| 25 Sep | View live positions of all on-duty guards on the map |
-| 28 Sep | Approve or reject community incident reports before they go public |
-| 29 Sep | Post community safety announcements to residents in a specific area |
-| 30 Sep | Generate monthly reports on incidents and response times |
-| 1 Oct | View guard performance metrics and average response times |
-| 2 Oct | Configure patrol zone boundaries on the map |
-| 5 Oct | Manage membership payments |
-| 6 Oct | Handle refunds or fee disputes |
-| 7 Oct | Manage guard equipment inventory |
-| 8 Oct | Broadcast emergency-wide alert (not area-specific) |
-| 9 Oct | Review and resolve guard safety flags |
-| 12 Oct | Integrate payment gateway sandbox and webhook handling |
-| 13 Oct | Set up WebSocket channel for live alert status updates |
-| 14 Oct | Implement API rate limiting / abuse protection on SOS endpoint |
-| 15 Oct | Write API documentation |
-| 16 Oct | Set up error logging/monitoring |
-| 19 Oct | Write unit tests |
-| 22 Oct | Conduct security penetration testing before launch |
-| 23 Oct | Set up automated database backup and recovery plan |
-| 26 Oct | Complete first-time app onboarding walkthrough |
+Our Product Backlog on the SAFEGUARD Trello board holds 62 cards. The cards run from the first features, such as pressing the SOS button and sharing a live GPS location, through alerts, maps, guard and admin functions and payments, to the final technical work such as API documentation, unit tests, security testing and onboarding. Every card has a due date and coloured labels that group similar work. The pictures in the next part show the real backlog.
 
 ### 3.3 Evidence
 
-**Trello Product Backlog list (62 cards), screenshots in board order**
+**Trello Product Backlog list, part 1 (cards due 18 Aug to 3 Sep)**
 
-<p>
-<img src="images/product-backlog-01.png" alt="Product Backlog screenshot 1" width="190">
-<img src="images/product-backlog-02.png" alt="Product Backlog screenshot 2" width="190">
-<img src="images/product-backlog-03.png" alt="Product Backlog screenshot 3" width="190">
-<img src="images/product-backlog-04.png" alt="Product Backlog screenshot 4" width="190">
-<img src="images/product-backlog-05.png" alt="Product Backlog screenshot 5" width="190">
-<img src="images/product-backlog-06.png" alt="Product Backlog screenshot 6" width="190">
-</p>
-<p>
-<img src="images/product-backlog-07.png" alt="Product Backlog screenshot 7" width="190">
-<img src="images/product-backlog-08.png" alt="Product Backlog screenshot 8" width="190">
-<img src="images/product-backlog-09.png" alt="Product Backlog screenshot 9" width="190">
-<img src="images/product-backlog-10.png" alt="Product Backlog screenshot 10" width="190">
-<img src="images/product-backlog-11.png" alt="Product Backlog screenshot 11" width="190">
-<img src="images/product-backlog-12.png" alt="Product Backlog screenshot 12" width="190">
-</p>
-<p>
-<img src="images/product-backlog-13.png" alt="Product Backlog screenshot 13" width="190">
-<img src="images/product-backlog-14.png" alt="Product Backlog screenshot 14" width="190">
-<img src="images/product-backlog-15.png" alt="Product Backlog screenshot 15" width="190">
-<img src="images/product-backlog-16.png" alt="Product Backlog screenshot 16" width="190">
-<img src="images/product-backlog-17.png" alt="Product Backlog screenshot 17" width="190">
-</p>
+![Trello Product Backlog – part 1](product-backlog-part-1.png)
+
+**Trello Product Backlog list, part 2 (cards due 4 Sep to 2 Oct)**
+
+![Trello Product Backlog – part 2](product-backlog-part-2.png)
+
+**Trello Product Backlog list, part 3 (cards due 2 Oct to 26 Oct)**
+
+![Trello Product Backlog – part 3](product-backlog-part-3.png)
 
 **Product Backlog next to the sprint lists**
 
-![Trello board – Product Backlog and sprint lists](images/trello-board-overview.png)
+![Trello board – Product Backlog and sprint lists](trello-board-overview.png)
 
 ### 3.4 Personal Reflection
 
@@ -416,35 +353,35 @@ Our SAFEGUARD board has 16 sprints, with due dates from 20 July to 30 October 20
 
 **Product Backlog and Sprints 1 to 4 (with checklist progress)**
 
-![Trello board – sprint lists](images/trello-board-overview.png)
+![Trello board – sprint lists](trello-board-overview.png)
 
 **Sprint 3 list, scrolled to show the shift check-in and check-out cards**
 
-![Trello board – Sprint 3 list](images/trello-board-sprint-3.png)
+![Trello board – Sprint 3 list](trello-board-sprint-3.png)
 
 **Sprints 5 to 9**
 
-![Trello board – Sprints 5 to 9](images/trello-sprints-5-to-9.png)
+![Trello board – Sprints 5 to 9](trello-sprints-5-to-9.png)
 
 **Sprints 9 to 13**
 
-![Trello board – Sprints 9 to 13](images/trello-sprints-9-to-13.png)
+![Trello board – Sprints 9 to 13](trello-sprints-9-to-13.png)
 
 **Sprints 13 to 15 and the Sprint | Completed list**
 
-![Trello board – Sprints 13 to 15 and Completed list](images/trello-sprints-13-to-completed.png)
+![Trello board – Sprints 13 to 15 and Completed list](trello-sprints-13-to-completed.png)
 
 **Sprints 14 to 16 and the Sprint | Completed list (82 cards)**
 
-![Trello board – Sprints 14 to 16 and Completed list](images/trello-sprints-14-to-completed.png)
+![Trello board – Sprints 14 to 16 and Completed list](trello-sprints-14-to-completed.png)
 
 **Sprint card with its checklist (Sprint 2)**
 
-![Sprint 2 card with checklist](images/user-story-edit-emergency-contacts.png)
+![Sprint 2 card with checklist](user-story-edit-emergency-contacts.png)
 
 **Sprint card with its checklist and activity (Sprint 3)**
 
-![Sprint 3 card with checklist and activity](images/user-story-log-shift-end-tasks.png)
+![Sprint 3 card with checklist and activity](user-story-log-shift-end-tasks.png)
 
 ### 4.4 Personal Reflection
 
@@ -476,11 +413,11 @@ My logbook has three parts: a **Taskboard** (what is in the Product Backlog, In 
 
 **Agile Logbook, page 1: Taskboard, Walkthrough and entries for 4 and 5 August 2026**
 
-![Agile Logbook – page 1](images/agile-logbook-page-1.png)
+![Agile Logbook – page 1](agile-logbook-page-1.png)
 
 **Agile Logbook, page 2: entries for 6 and 7 August 2026**
 
-![Agile Logbook – page 2](images/agile-logbook-page-2.png)
+![Agile Logbook – page 2](agile-logbook-page-2.png)
 
 ### 5.4 Personal Reflection
 
@@ -495,4 +432,6 @@ I learned that a logbook is more than a diary. It is evidence of how the project
 ## Conclusion
 
 The Community Security Business project showed me how Agile works in a real team. The Agile Team Charter gave us roles, values and communication rules, and as the Presenter I explained our progress to the lecturer. The user stories and their checklist tasks, the Product Backlog and the sprint lists on our SAFEGUARD Trello board gave the team a clear plan, and my Agile Logbook recorded how the work and the lecturer's feedback moved the project forward. I now understand that Agile is about planning in small steps, being honest about problems and improving after feedback, and I will use these lessons in my future software development projects.
+
+
 
